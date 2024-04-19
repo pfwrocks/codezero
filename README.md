@@ -4,11 +4,14 @@
 
 Welcome to CodeZero—an exploration into the future of coding. This application introduces a radical approach that frees developers from the constraints of existing codebases, technical debt, and complex APIs, fostering an environment where just-in-time abstractions empower them to build effortlessly.
 
+![Demo](previews/demo.gif)
+
+
 ## Concept
 
 Envision initiating every new feature or bug fix on a blank canvas. CodeZero enables you to draft your code as if all the ideal functions, APIs, and methods were readily available, tailored exactly for your needs. This enhances developer creativity and productivity, maintaining a seamless flow without the burden of existing infrastructures.
 
-After writing your code, a sophisticated language model analyzes and seamlessly integrates your work into the larger codebase, transforming your theoretical constructs into deployable solutions that align perfectly with the existing architecture.
+After writing your code, a language model analyzes and seamlessly integrates your work into the larger codebase, transforming your idealized pseudocode into deployable solutions that align perfectly with the existing architecture.
 
 ## Features
 
